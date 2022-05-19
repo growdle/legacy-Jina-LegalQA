@@ -1,0 +1,1 @@
+FROM dleunji/legalqa:latest
