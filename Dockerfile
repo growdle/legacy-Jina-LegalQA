@@ -1,1 +1,1 @@
-FROM junseongkim/legalqa:v1.0
+FROM junseongkim/legalqa:v1.2
